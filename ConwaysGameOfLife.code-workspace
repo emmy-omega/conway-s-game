@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "Conways.Library.Tests"
+    },
+    {
+      "path": "Conways.Library"
+    },
+    {
+      "path": "Conways.ConsoleUI"
+    }
+  ],
+  "extensions": {
+    "recommendations": ["ms-vscode.csharp"]
+  }
+}

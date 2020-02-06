@@ -1,0 +1,17 @@
+/home/sniper/Sandbox/DotNet/Console/ConwaysGameOfLife/Conways.Library/bin/Debug/netstandard2.0/Conways.Library.deps.json
+/home/sniper/Sandbox/DotNet/Console/ConwaysGameOfLife/Conways.Library/bin/Debug/netstandard2.0/Conways.Library.dll
+/home/sniper/Sandbox/DotNet/Console/ConwaysGameOfLife/Conways.Library/bin/Debug/netstandard2.0/Conways.Library.pdb
+/home/sniper/Sandbox/DotNet/Console/ConwaysGameOfLife/Conways.Library/obj/Debug/netstandard2.0/Conways.Library.csprojAssemblyReference.cache
+/home/sniper/Sandbox/DotNet/Console/ConwaysGameOfLife/Conways.Library/obj/Debug/netstandard2.0/Conways.Library.csproj.CoreCompileInputs.cache
+/home/sniper/Sandbox/DotNet/Console/ConwaysGameOfLife/Conways.Library/obj/Debug/netstandard2.0/Conways.Library.AssemblyInfoInputs.cache
+/home/sniper/Sandbox/DotNet/Console/ConwaysGameOfLife/Conways.Library/obj/Debug/netstandard2.0/Conways.Library.AssemblyInfo.cs
+/home/sniper/Sandbox/DotNet/Console/ConwaysGameOfLife/Conways.Library/obj/Debug/netstandard2.0/Conways.Library.dll
+/home/sniper/Sandbox/DotNet/Console/ConwaysGameOfLife/Conways.Library/obj/Debug/netstandard2.0/Conways.Library.pdb
+/home/sniper/Sandbox/C#/Console/ConwaysGameOfLife/Conways.Library/bin/Debug/netstandard2.0/Conways.Library.deps.json
+/home/sniper/Sandbox/C#/Console/ConwaysGameOfLife/Conways.Library/bin/Debug/netstandard2.0/Conways.Library.dll
+/home/sniper/Sandbox/C#/Console/ConwaysGameOfLife/Conways.Library/bin/Debug/netstandard2.0/Conways.Library.pdb
+/home/sniper/Sandbox/C#/Console/ConwaysGameOfLife/Conways.Library/obj/Debug/netstandard2.0/Conways.Library.csprojAssemblyReference.cache
+/home/sniper/Sandbox/C#/Console/ConwaysGameOfLife/Conways.Library/obj/Debug/netstandard2.0/Conways.Library.AssemblyInfoInputs.cache
+/home/sniper/Sandbox/C#/Console/ConwaysGameOfLife/Conways.Library/obj/Debug/netstandard2.0/Conways.Library.AssemblyInfo.cs
+/home/sniper/Sandbox/C#/Console/ConwaysGameOfLife/Conways.Library/obj/Debug/netstandard2.0/Conways.Library.dll
+/home/sniper/Sandbox/C#/Console/ConwaysGameOfLife/Conways.Library/obj/Debug/netstandard2.0/Conways.Library.pdb
